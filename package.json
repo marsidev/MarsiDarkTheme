@@ -1,0 +1,49 @@
+{
+	"name": "marsidark",
+	"displayName": "Marsi Dark",
+	"description": "Marsi Dark Theme by Luis Marsiglia",
+	"publisher": "marsi",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.66.0"
+	},
+	"author": {
+		"name": "Luis Marsiglia",
+		"email": "marsiglia.business@gmail.com",
+		"url": "https://github.com/marsidev"
+	},
+	"categories": [
+		"Themes",
+		"Other"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/marsidev/MarsiDarkTheme.git"
+	},
+	"bugs": {
+		"url": "https://github.com/marsidev/MarsiDarkTheme/issues"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Marsi Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/marsidark/theme.json"
+			}
+		]
+	},
+	"keywords": [
+		"theme",
+		"dark",
+		"pink",
+		"cute",
+		"kawaii"
+	],
+	"galleryBanner": {
+		"color": "#353042",
+		"theme": "dark"
+	},
+  "icon": "icon.png",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "preview": true
+}
